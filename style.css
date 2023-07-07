@@ -1,5 +1,5 @@
 .box-model {
     border: 20px solid #93bc47;
-    padding: 20px solid #93bc47;
-    margin: 20px solid #93bc47;
+    padding: 20px;
+    margin: 20px;
 }
